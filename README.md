@@ -28,5 +28,4 @@ Projeto pessoal desenvolvido para aprimoramento e aprendizado Front-End. Page de
 ##
 <h1>Galeria</h1>
 
-![IT-solution-galery](https://user-images.githubusercontent.com/91755560/153123766-aacf0e70-aecb-43b4-8b05-12f61fc982ca.png)
-
+![IT-solution-galery](https://user-images.githubusercontent.com/91755560/153124725-309dd345-49e3-4280-bc73-ed543a57f7f5.png)
