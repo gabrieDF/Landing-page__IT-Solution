@@ -1,5 +1,5 @@
 # Landing-page__IT-Solution
-Projeto pessoal desenvolvido para aprimoramento e aprendizado Front-End. Page demonstra uma apresentação de uma empresa, contendo seus produtos, clientes, comentários e área de ação.
+Projeto pessoal desenvolvido para aprimoramento e aprendizado Front-End. Page demonstra uma apresentação de uma empresa, contendo seus produtos, clientes, comentários e área de ação. Projeto também com suporte a responsividade a mobile.
 
 ##
 <h1>Home Principal</h1>
