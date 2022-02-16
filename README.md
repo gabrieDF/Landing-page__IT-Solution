@@ -31,7 +31,6 @@ Projeto pessoal desenvolvido para aprimoramento e aprendizado Front-End. Page de
 ![IT-solution-galery](https://user-images.githubusercontent.com/91755560/153124725-309dd345-49e3-4280-bc73-ed543a57f7f5.png)
 
 ## 🔖 Layout
-Acessa o site: https://gabriedf.github.io/Landing-page__IT-Solution/
-<h5>Link a cima mostra o layout, porém, algumas imagens não apareceram, pois, as pages do github, não carrega imagens em pastas.</h5>
+Acessa o site: https://stupefied-benz-6808fb.netlify.app/
 
 ---
